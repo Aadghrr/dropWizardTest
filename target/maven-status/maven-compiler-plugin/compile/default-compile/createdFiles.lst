@@ -1,0 +1,5 @@
+com/darragh/app/api/Saying.class
+com/darragh/app/HelloWorldApplication.class
+com/darragh/app/HelloWorldConfiguration.class
+com/darragh/app/resources/HelloWorldResource.class
+com/darragh/app/health/TemplateHealthCheck.class
